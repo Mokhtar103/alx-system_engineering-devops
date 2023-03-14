@@ -1,2 +1,2 @@
 #!/bin/bash
-dec2hex $DECIMAL
+printf ‘%x\n’ $DECIMAL
